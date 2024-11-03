@@ -1,0 +1,6 @@
+
+# Ignoruoti vendor katalogą
+/vendor/
+
+# Ignoruoti Composer lock failą
+composer.lock

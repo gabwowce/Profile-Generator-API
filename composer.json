@@ -1,0 +1,11 @@
+{
+    "name": "g1230/profile-generator",
+    "autoload": {
+        "psr-4": {
+            "G1230\\ProfileGenerator\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
